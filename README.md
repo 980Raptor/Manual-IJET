@@ -18,4 +18,4 @@ A Manual Archipelago implementation of Indiana Jones and the Emperor's Tomb. Req
 - Also, I tried my best with location names and sorting for the manual client, but if anything is not understandable let me know
 # Setup:
 - If you do not have a fully completed save file, copy "Indy.ses" to ```Indiana Jones and the Emperors Tomb/GameData/indy/saves```.
-- The game does not have a native Windowed Mode and alt-tabbing will crash the game, which can make playing a manual challenging. Included are ```d3d8.dll```, ```dxwrapper.dll```, and ```dxwrapper.ini```. Copy those into ```Indiana Jones and the Emperors Tomb/GameData/bin``` and the game will launch in Windowed Mode.
+- The game does not have a native Windowed Mode and alt-tabbing will crash the game, which can make playing a manual challenging. Included are ```d3d8.dll```, ```dxwrapper.dll```, and ```dxwrapper.ini```. Copy those into ```Indiana Jones and the Emperors Tomb/GameData/bin``` and the game will launch in Windowed Mode. You can further modify the values of ```dxwrapper.ini``` if you'd like.
