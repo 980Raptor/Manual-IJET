@@ -1,0 +1,3542 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+  "data": [
+    {
+      "name": "Idol of Ramba Vihara (Ceylon: Gates of the Lost City)",
+      "region": "Ceylon: Gates of the Lost City",
+      "category": [
+        "01-01 Ceylon: Gates of the Lost City"
+      ],
+      "requires": "",
+      "sort-key": "01-01-001"
+    },
+    {
+      "name": "Fountain (Ceylon: Gates of the Lost City)",
+      "region": "Ceylon: Gates of the Lost City",
+      "category": [
+        "01-01 Ceylon: Gates of the Lost City",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-01-002"
+    },
+    {
+      "name": "Pickup Machete (Ceylon: Gates of the Lost City)",
+      "region": "Ceylon: Gates of the Lost City",
+      "category": [
+        "01-01 Ceylon: Gates of the Lost City"
+      ],
+      "requires": "",
+      "sort-key": "01-01-003"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: Gates of the Lost City)",
+      "region": "Ceylon: Gates of the Lost City",
+      "category": [
+        "01-01 Ceylon: Gates of the Lost City"
+      ],
+      "requires": "|Equipment Unlock - Machete| AND |Equipment Unlock - Whip|",
+      "sort-key": "01-01-004",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Revolver Ammo In Crate (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp"
+      ],
+      "requires": "",
+      "sort-key": "01-02-001"
+    },
+    {
+      "name": "Shovel Pickup (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp"
+      ],
+      "requires": "",
+      "sort-key": "01-02-002"
+    },
+    {
+      "name": "Fountain Behind Vines (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-02-003"
+    },
+    {
+      "name": "Fountain In Flooded Area (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen| AND |Equipment Unlock - Whip|",
+      "sort-key": "01-02-004"
+    },
+    {
+      "name": "Mahavatu Mask (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "01-02-005"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: The Hunter's Camp)",
+      "region": "Ceylon: The Hunter's Camp",
+      "category": [
+        "01-02 Ceylon: The Hunter's Camp"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "01-02-006",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Shovel Pickup (Ceylon: The Paths of the Ancients)",
+      "region": "Ceylon: The Paths of the Ancients",
+      "category": [
+        "01-03 Ceylon: The Paths of the Ancients"
+      ],
+      "requires": "",
+      "sort-key": "01-03-001"
+    },
+    {
+      "name": "Fountain (Ceylon: The Paths of the Ancients)",
+      "region": "Ceylon: The Paths of the Ancients",
+      "category": [
+        "01-03 Ceylon: The Paths of the Ancients",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-03-002"
+    },
+    {
+      "name": "Shotgun Ammo In Crate (Ceylon: The Paths of the Ancients)",
+      "region": "Ceylon: The Paths of the Ancients",
+      "category": [
+        "01-03 Ceylon: The Paths of the Ancients"
+      ],
+      "requires": "",
+      "sort-key": "01-03-003"
+    },
+    {
+      "name": "Demo Charge Pickup (Ceylon: The Paths of the Ancients)",
+      "region": "Ceylon: The Paths of the Ancients",
+      "category": [
+        "01-03 Ceylon: The Paths of the Ancients"
+      ],
+      "requires": "",
+      "sort-key": "01-03-004"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: The Paths of the Ancients)",
+      "region": "Ceylon: The Paths of the Ancients",
+      "category": [
+        "01-03 Ceylon: The Paths of the Ancients"
+      ],
+      "requires": "|Demo Charge (Ceylon - The Paths of the Ancients)|",
+      "sort-key": "01-03-005",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Fountain in Open Courtyard (Ceylon: The Palace of Forgotten Kings)",
+      "region": "Ceylon: The Palace of Forgotten Kings",
+      "category": [
+        "01-04 Ceylon: The Palace of Forgotten Kings",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-04-001"
+    },
+    {
+      "name": "Revolver Ammo in Crate (Ceylon: The Palace of Forgotten Kings)",
+      "region": "Ceylon: The Palace of Forgotten Kings",
+      "category": [
+        "01-04 Ceylon: The Palace of Forgotten Kings"
+      ],
+      "requires": "",
+      "sort-key": "01-04-002"
+    },
+    {
+      "name": "Port Negombo Relic (Ceylon: The Palace of Forgotten Kings)",
+      "region": "Ceylon: The Palace of Forgotten Kings",
+      "category": [
+        "01-04 Ceylon: The Palace of Forgotten Kings"
+      ],
+      "requires": "|Equipment Unlock - Machete| AND |Equipment Unlock - Whip|",
+      "sort-key": "01-04-003"
+    },
+    {
+      "name": "Fountain Near Trapped Hallway (Ceylon: The Palace of Forgotten Kings)",
+      "region": "Ceylon: The Palace of Forgotten Kings",
+      "category": [
+        "01-04 Ceylon: The Palace of Forgotten Kings",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Machete| AND |Equipment Unlock - Whip| AND |Equipment Unlock - Canteen|",
+      "sort-key": "01-04-004"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: The Palace of Forgotten Kings)",
+      "region": "Ceylon: The Palace of Forgotten Kings",
+      "category": [
+        "01-04 Ceylon: The Palace of Forgotten Kings"
+      ],
+      "requires": "|Equipment Unlock - Machete| AND |Equipment Unlock - Whip|",
+      "sort-key": "01-04-005",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Fountain (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-05-001"
+    },
+    {
+      "name": "Canteen In Crate (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs"
+      ],
+      "requires": "",
+      "sort-key": "01-05-002"
+    },
+    {
+      "name": "Revolver Ammo In Crate (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs"
+      ],
+      "requires": "",
+      "sort-key": "01-05-003"
+    },
+    {
+      "name": "Dynamite Bundle in Crate Behind Waterfall (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs"
+      ],
+      "requires": "",
+      "sort-key": "01-05-004"
+    },
+    {
+      "name": "Medkit In Crate (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs"
+      ],
+      "requires": "",
+      "sort-key": "01-05-005"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: River of Fangs)",
+      "region": "Ceylon: River of Fangs",
+      "category": [
+        "01-05 Ceylon: River of Fangs"
+      ],
+      "requires": "",
+      "sort-key": "01-05-006",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Revolver Ammo In Crate (Ceylon: Temple of the River Goddess)",
+      "region": "Ceylon: Temple of the River Goddess",
+      "category": [
+        "01-06 Ceylon: Temple of the River Goddess"
+      ],
+      "requires": "",
+      "sort-key": "01-06-001"
+    },
+    {
+      "name": "Medkit In Crate (Ceylon: Temple of the River Goddess)",
+      "region": "Ceylon: Temple of the River Goddess",
+      "category": [
+        "01-06 Ceylon: Temple of the River Goddess"
+      ],
+      "requires": "",
+      "sort-key": "01-06-002"
+    },
+    {
+      "name": "Fountain (Ceylon: Temple of the River Goddess)",
+      "region": "Ceylon: Temple of the River Goddess",
+      "category": [
+        "01-06 Ceylon: Temple of the River Goddess",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-06-003"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: Temple of the River Goddess)",
+      "region": "Ceylon: Temple of the River Goddess",
+      "category": [
+        "01-06 Ceylon: Temple of the River Goddess"
+      ],
+      "requires": "",
+      "sort-key": "01-06-004",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ]
+    },
+    {
+      "name": "Shotgun Ammo In Box (Ceylon: Into the Sacred Caverns)",
+      "region": "Ceylon: Into the Sacred Caverns",
+      "category": [
+        "01-07 Ceylon: Into the Sacred Caverns"
+      ],
+      "requires": "",
+      "sort-key": "01-07-001"
+    },
+    {
+      "name": "Fountain (Ceylon: Into the Sacred Caverns)",
+      "region": "Ceylon: Into the Sacred Caverns",
+      "category": [
+        "01-07 Ceylon: Into the Sacred Caverns",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-07-002"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: Into the Sacred Caverns)",
+      "region": "Ceylon: Into the Sacred Caverns",
+      "category": [
+        "01-07 Ceylon: Into the Sacred Caverns"
+      ],
+      "requires": "",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ],
+      "sort-key": "01-07-003"
+    },
+    {
+      "name": "Fountain (Ceylon: The Silent Guardians)",
+      "region": "Ceylon: The Silent Guardians",
+      "category": [
+        "01-08 Ceylon: The Silent Guardians",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-08-001"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: The Silent Guardians)",
+      "region": "Ceylon: The Silent Guardians",
+      "category": [
+        "01-08 Ceylon: The Silent Guardians"
+      ],
+      "requires": "",
+      "place_item": [
+        "Ceylon - Chapter Completion"
+      ],
+      "sort-key": "01-08-002"
+    },
+    {
+      "name": "Fountain (Ceylon: The Idol of Kouru Watu)",
+      "region": "Ceylon: The Idol of Kouru Watu",
+      "category": [
+        "01-09 Ceylon: The Idol of Kouru Watu",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "01-09-001"
+    },
+    {
+      "name": "Idol of Kouru Watu (Ceylon: The Idol of Kouru Watu)",
+      "region": "Ceylon: The Idol of Kouru Watu",
+      "category": [
+        "01-09 Ceylon: The Idol of Kouru Watu"
+      ],
+      "requires": "",
+      "sort-key": "01-09-002"
+    },
+    {
+      "name": "Chapter Complete (Ceylon: The Idol of Kouru Watu)",
+      "region": "Ceylon: The Idol of Kouru Watu",
+      "category": [
+        "01-09 Ceylon: The Idol of Kouru Watu"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "01-09-003"
+    },
+    {
+      "name": "Ceylon Complete",
+      "region": "Ceylon: The Idol of Kouru Watu",
+      "category": [
+        "01-09 Ceylon: The Idol of Kouru Watu"
+      ],
+      "requires": "",
+      "sort-key": "01-09-004"
+    },
+    {
+      "name": "Fountain (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "02-01-001"
+    },
+    {
+      "name": "Medkit In Crate (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates"
+      ],
+      "requires": "",
+      "sort-key": "02-01-002"
+    },
+    {
+      "name": "Ammo Hidden Behind Castle (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates"
+      ],
+      "requires": "",
+      "sort-key": "02-01-003"
+    },
+    {
+      "name": "Luger Hidden Beneath Castle Gate (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-01-004"
+    },
+    {
+      "name": "Luger Ammo Hidden Beneath Castle Gate (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-01-005"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Castle Gates)",
+      "region": "Prague: The Castle Gates",
+      "category": [
+        "02-01 Prague: The Castle Gates"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-01-006"
+    },
+    {
+      "name": "Fountain Top of Staircase (Prague: The Dungeon)",
+      "region": "Prague: The Dungeon",
+      "category": [
+        "02-02 Prague: The Dungeon",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "02-02-001"
+    },
+    {
+      "name": "Luger Ammo In Dungeon (Prague: The Dungeon)",
+      "region": "Prague: The Dungeon",
+      "category": [
+        "02-02 Prague: The Dungeon"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-02-002"
+    },
+    {
+      "name": "Fountain In Flooded Area (Prague: The Dungeon)",
+      "region": "Prague: The Dungeon",
+      "category": [
+        "02-02 Prague: The Dungeon",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen| AND |Equipment Unlock - Whip|",
+      "sort-key": "02-02-003"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Dungeon)",
+      "region": "Prague: The Dungeon",
+      "category": [
+        "02-02 Prague: The Dungeon"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-02-004"
+    },
+    {
+      "name": "MP-40 Ammo 1 (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "",
+      "sort-key": "02-03-001"
+    },
+    {
+      "name": "MP-40 Ammo 2 (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "",
+      "sort-key": "02-03-002"
+    },
+    {
+      "name": "MP-40 Ammo 3 (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "",
+      "sort-key": "02-03-003"
+    },
+    {
+      "name": "MP-40 On Crate (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "",
+      "sort-key": "02-03-004"
+    },
+    {
+      "name": "Demo Charge Pickup (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "",
+      "sort-key": "02-03-005"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Courtyard)",
+      "region": "Prague: The Courtyard",
+      "category": [
+        "02-03 Prague: The Courtyard"
+      ],
+      "requires": "|Demo Charge (Prague - The Courtyard)|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-03-006"
+    },
+    {
+      "name": "Fountain (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "02-04-001"
+    },
+    {
+      "name": "Pickup Library Key (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-04-002"
+    },
+    {
+      "name": "Pickup Metal Pipe (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-04-003"
+    },
+    {
+      "name": "Luger Ammo on Bookshelf (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-04-004"
+    },
+    {
+      "name": "Throwing Knife on Bookshelf (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-04-005"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Great Hall)",
+      "region": "Prague: The Great Hall",
+      "category": [
+        "02-04 Prague: The Great Hall"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Library Key|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-04-006"
+    },
+    {
+      "name": "Fountain In Cellar (Prague: The Library)",
+      "region": "Prague: The Library",
+      "category": [
+        "02-05 Prague: The Library",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "02-05-001"
+    },
+    {
+      "name": "Pickup Book (Prague: The Library)",
+      "region": "Prague: The Library",
+      "category": [
+        "02-05 Prague: The Library"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-05-002"
+    },
+    {
+      "name": "Medallion of Lebuse (Prague: The Library)",
+      "region": "Prague: The Library",
+      "category": [
+        "02-05 Prague: The Library"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-05-003"
+    },
+    {
+      "name": "Pickup Castle Map (Prague: The Library)",
+      "region": "Prague: The Library",
+      "category": [
+        "02-05 Prague: The Library"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Book|",
+      "sort-key": "02-05-004"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Library)",
+      "region": "Prague: The Library",
+      "category": [
+        "02-05 Prague: The Library"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Book| AND |Castle Map|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-05-005"
+    },
+    {
+      "name": "Pickup Crown (Prague: The Astrologer’s Clock)",
+      "region": "Prague: The Astrologer’s Clock",
+      "category": [
+        "02-06 Prague: The Astrologer’s Clock"
+      ],
+      "requires": "",
+      "sort-key": "02-06-001"
+    },
+    {
+      "name": "Astrologer's Puzzle Complete (Prague: The Astrologer’s Clock)",
+      "region": "Prague: The Astrologer’s Clock",
+      "category": [
+        "02-06 Prague: The Astrologer’s Clock"
+      ],
+      "requires": "|Crown|",
+      "sort-key": "02-06-002"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Astrologer’s Clock)",
+      "region": "Prague: The Astrologer’s Clock",
+      "category": [
+        "02-06 Prague: The Astrologer’s Clock"
+      ],
+      "requires": "|Crown|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-06-003"
+    },
+    {
+      "name": "Medkit In Crate (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "",
+      "sort-key": "02-07-001"
+    },
+    {
+      "name": "MP-40 On Ledge (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "",
+      "sort-key": "02-07-002"
+    },
+    {
+      "name": "MP-40 Ammo (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "",
+      "sort-key": "02-07-003"
+    },
+    {
+      "name": "Luger Ammo on Roof (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "",
+      "sort-key": "02-07-004"
+    },
+    {
+      "name": "Pickup Broken Sword (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "",
+      "sort-key": "02-07-005"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Armory)",
+      "region": "Prague: The Armory",
+      "category": [
+        "02-07 Prague: The Armory"
+      ],
+      "requires": "|Broken Sword| AND |Equipment Unlock - Whip|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-07-006"
+    },
+    {
+      "name": "Astrologer's Puzzle Complete (Prague: The Astrologer’s Clock Part 2)",
+      "region": "Prague: The Astrologer’s Clock Part 2",
+      "category": [
+        "02-08 Prague: The Astrologer’s Clock Part 2"
+      ],
+      "requires": "|Broken Sword|",
+      "sort-key": "02-08-001"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Astrologer’s Clock Part 2)",
+      "region": "Prague: The Astrologer’s Clock Part 2",
+      "category": [
+        "02-08 Prague: The Astrologer’s Clock Part 2"
+      ],
+      "requires": "|Broken Sword|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-08-002"
+    },
+    {
+      "name": "Stochov Fragment (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "",
+      "sort-key": "02-09-001"
+    },
+    {
+      "name": "Medkit On Castle Spire (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "",
+      "sort-key": "02-09-003"
+    },
+    {
+      "name": "Fountain (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "02-09-004"
+    },
+    {
+      "name": "MP-40 on Roof (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "",
+      "sort-key": "02-09-002"
+    },
+    {
+      "name": "Revolver Ammo on Ledge (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "",
+      "sort-key": "02-09-005"
+    },
+    {
+      "name": "Pickup Lever Handle (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "02-09-006"
+    },
+    {
+      "name": "Pickup Vega’s Manifesto (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Lever Handle|",
+      "sort-key": "02-09-007"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Observatory)",
+      "region": "Prague: The Observatory",
+      "category": [
+        "02-09 Prague: The Observatory"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Lever Handle| AND |Vega's Manifesto|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-09-008"
+    },
+    {
+      "name": "Astrologer's Puzzle Complete (Prague: The Astrologer’s Clock Part 3)",
+      "region": "Prague: The Astrologer’s Clock Part 3",
+      "category": [
+        "02-10 Prague: The Astrologer’s Clock Part 3"
+      ],
+      "requires": "|Vega's Manifesto|",
+      "sort-key": "02-10-001"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Astrologer’s Clock Part 3)",
+      "region": "Prague: The Astrologer’s Clock Part 3",
+      "category": [
+        "02-10 Prague: The Astrologer’s Clock Part 3"
+      ],
+      "requires": "|Vega's Manifesto|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-10-002"
+    },
+    {
+      "name": "Cistercian Mask (Prague: Vega’s Tower)",
+      "region": "Prague: Vega’s Tower",
+      "category": [
+        "02-11 Prague: Vega’s Tower"
+      ],
+      "requires": "",
+      "sort-key": "02-11-001"
+    },
+    {
+      "name": "Pickup Soul Crystal (Prague: Vega’s Tower)",
+      "region": "Prague: Vega’s Tower",
+      "category": [
+        "02-11 Prague: Vega’s Tower"
+      ],
+      "requires": "",
+      "sort-key": "02-11-002"
+    },
+    {
+      "name": "Chapter Complete (Prague: Vega’s Tower)",
+      "region": "Prague: Vega’s Tower",
+      "category": [
+        "02-11 Prague: Vega’s Tower"
+      ],
+      "requires": "|Soul Crystal|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-11-003"
+    },
+    {
+      "name": "Astrologer's Puzzle Complete (Prague: The Astrologer’s Clock Part 4)",
+      "region": "Prague: The Astrologer’s Clock Part 4",
+      "category": [
+        "02-12 Prague: The Astrologer’s Clock Part 4"
+      ],
+      "requires": "|Soul Crystal|",
+      "sort-key": "02-12-001"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Astrologer’s Clock Part 4)",
+      "region": "Prague: The Astrologer’s Clock Part 4",
+      "category": [
+        "02-12 Prague: The Astrologer’s Clock Part 4"
+      ],
+      "requires": "|Soul Crystal|",
+      "place_item": [
+        "Prague - Chapter Completion"
+      ],
+      "sort-key": "02-12-002"
+    },
+    {
+      "name": "Homonculus Defeated (Prague: The Laboratory)",
+      "region": "Prague: The Laboratory",
+      "category": [
+        "02-13 Prague: The Laboratory"
+      ],
+      "requires": "",
+      "sort-key": "02-13-001"
+    },
+    {
+      "name": "Pickup Dragon Shard (Prague: The Laboratory)",
+      "region": "Prague: The Laboratory",
+      "category": [
+        "02-13 Prague: The Laboratory"
+      ],
+      "requires": "",
+      "sort-key": "02-13-002"
+    },
+    {
+      "name": "Chapter Complete (Prague: The Laboratory)",
+      "region": "Prague: The Laboratory",
+      "category": [
+        "02-13 Prague: The Laboratory"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "02-13-003"
+    },
+    {
+      "name": "Prague Complete",
+      "region": "Prague: The Laboratory",
+      "category": [
+        "02-13 Prague: The Laboratory"
+      ],
+      "requires": "",
+      "sort-key": "02-13-004"
+    },
+    {
+      "name": "Grenade In Outside Hallway (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-001"
+    },
+    {
+      "name": "Grenade In Outside Hallway 2 (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-002"
+    },
+    {
+      "name": "Grenade In Outside Hallway 3 (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-003"
+    },
+    {
+      "name": "MP-40 on Table (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-004"
+    },
+    {
+      "name": "Grenade Near Crate (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-005"
+    },
+    {
+      "name": "Grenade Near Crate 2 (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-006"
+    },
+    {
+      "name": "MP-40 Ammo on Crate (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-007"
+    },
+    {
+      "name": "Grenade Inside Building (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-008"
+    },
+    {
+      "region": "Istanbul: Istanbul Breakout",
+      "name": "Grenade Inside Building 2 (Istanbul: Istanbul Breakout)",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-009"
+    },
+    {
+      "name": "Pickup Satchel (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-010"
+    },
+    {
+      "name": "Medkit on Table (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-011"
+    },
+    {
+      "name": "MP-40 Ammo on Table (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "",
+      "sort-key": "03-01-012"
+    },
+    {
+      "name": "Medkit on Ledge (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-01-013"
+    },
+    {
+      "name": "Grenade Near Mounted Machine Gun (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-01-014"
+    },
+    {
+      "name": "Grenade Near Mounted Machine Gun 2 (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-01-015"
+    },
+    {
+      "name": "Medkit in Crate (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-01-016"
+    },
+    {
+      "name": "Fountain (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Equipment Unlock - Canteen|",
+      "sort-key": "03-01-017"
+    },
+    {
+      "name": "Piri Reis Manuscript (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-01-018"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: Istanbul Breakout)",
+      "region": "Istanbul: Istanbul Breakout",
+      "category": [
+        "03-01 Istanbul: Istanbul Breakout"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-01-019"
+    },
+    {
+      "name": "Medkit Near Skeleton (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-001"
+    },
+    {
+      "name": "MP-40 Ammo Near Skeleton (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-002"
+    },
+    {
+      "name": "MP-40 on Table (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-003"
+    },
+    {
+      "name": "MP-40 Ammo on Table (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-004"
+    },
+    {
+      "name": "MP-40 Ammo on Table 2 (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-005"
+    },
+    {
+      "name": "Medkit on Table (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-006"
+    },
+    {
+      "name": "Demo Charge Pickup (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-007"
+    },
+    {
+      "name": "Grenade in Crate (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-008"
+    },
+    {
+      "name": "MP-40 Ammo on Table 3 (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "",
+      "sort-key": "03-02-009"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Secret of the Mosque Part 1)",
+      "region": "Istanbul: The Secret of the Mosque Part 1",
+      "category": [
+        "03-02 Istanbul: The Secret of the Mosque Part 1"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Secret of the Mosque Part 1)|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-02-010"
+    },
+    {
+      "name": "Ottoman Seal (Istanbul: The Secret of the Mosque Part 2)",
+      "region": "Istanbul: The Secret of the Mosque Part 2",
+      "category": [
+        "03-03 Istanbul: The Secret of the Mosque Part 2"
+      ],
+      "requires": "",
+      "sort-key": "03-03-001"
+    },
+    {
+      "name": "Grand Fountain (Istanbul: The Secret of the Mosque Part 2)",
+      "region": "Istanbul: The Secret of the Mosque Part 2",
+      "category": [
+        "03-03 Istanbul: The Secret of the Mosque Part 2",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Equipment Unlock - Canteen|",
+      "sort-key": "03-03-002"
+    },
+    {
+      "name": "Hidden Fountain in Open Room (Istanbul: The Secret of the Mosque Part 2)",
+      "region": "Istanbul: The Secret of the Mosque Part 2",
+      "category": [
+        "03-03 Istanbul: The Secret of the Mosque Part 2",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Equipment Unlock - Canteen|",
+      "sort-key": "03-03-003"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Secret of the Mosque Part 2)",
+      "region": "Istanbul: The Secret of the Mosque Part 2",
+      "category": [
+        "03-03 Istanbul: The Secret of the Mosque Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-03-004"
+    },
+    {
+      "name": "Pickup Oxygen Tank (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-001"
+    },
+    {
+      "name": "Medkit in Crate (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-002"
+    },
+    {
+      "name": "MP-40 Ammo on Table (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-003"
+    },
+    {
+      "name": "Pickup Istanbul Map (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-004"
+    },
+    {
+      "name": "Speargun Ammo on Shelf (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-005"
+    },
+    {
+      "name": "Speargun Ammo on Shelf 2 (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-006"
+    },
+    {
+      "name": "Speargun Ammo on Shelf 3 (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-007"
+    },
+    {
+      "name": "Speargun on Shelf (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-008"
+    },
+    {
+      "name": "Demo Charge Pickup (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-009"
+    },
+    {
+      "name": "Demo Charge Pickup 2 (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-010"
+    },
+    {
+      "name": "Pickup Machete (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "",
+      "sort-key": "03-04-011"
+    },
+    {
+      "name": "Fountain (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "03-04-012"
+    },
+    {
+      "name": "Delian Proclamation (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Sunken Palace)| AND |Equipment Unlock - Whip| AND (|Equipment Unlock - Machete| OR |Equipment Unlock - Turkish Knife|)",
+      "sort-key": "03-04-013"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Sunken Palace)",
+      "region": "Istanbul: The Sunken Palace",
+      "category": [
+        "03-04 Istanbul: The Sunken Palace"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Sunken Palace)| AND |Istanbul Map|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-04-014"
+    },
+    {
+      "name": "Medkit Underwater Near Skeleton (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "",
+      "sort-key": "03-05-001"
+    },
+    {
+      "name": "Speargun Ammo Underwater (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "",
+      "sort-key": "03-05-002"
+    },
+    {
+      "name": "Speargun Ammo Underwater 2 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "",
+      "sort-key": "03-05-003"
+    },
+    {
+      "name": "Grenade on Roof (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-004"
+    },
+    {
+      "name": "Grenade on Roof 2 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-005"
+    },
+    {
+      "name": "Grenade on Roof 3 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-006"
+    },
+    {
+      "name": "Speargun Ammo Near Campfire (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-007"
+    },
+    {
+      "name": "Speargun Ammo Near Campfire 2 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-008"
+    },
+    {
+      "name": "Speargun Ammo Past Campfire (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-009"
+    },
+    {
+      "name": "Demo Charge Pickup (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-010"
+    },
+    {
+      "name": "Demo Charge Pickup 2 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-011"
+    },
+    {
+      "name": "Demo Charge Pickup 3 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Demo Charge (Istanbul - The Gates of Neptune)|",
+      "sort-key": "03-05-012"
+    },
+    {
+      "name": "Fountain Behind Cracked Wall (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune",
+        "Fountain"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Gates of Neptune)| AND |Equipment Unlock - Canteen| AND |Equipment Unlock - Whip|",
+      "sort-key": "03-05-013"
+    },
+    {
+      "name": "Grenade in Box (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-014"
+    },
+    {
+      "name": "Grenade in Box 2 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-015"
+    },
+    {
+      "name": "Grenade in Box 3 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-016"
+    },
+    {
+      "name": "Grenade in Box 4 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-017"
+    },
+    {
+      "name": "Grenade in Box 5 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-018"
+    },
+    {
+      "name": "Grenade in Box 6 (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-019"
+    },
+    {
+      "name": "Pickup Trident Coin (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Gates of Neptune)| AND |Equipment Unlock - Whip|",
+      "sort-key": "03-05-020"
+    },
+    {
+      "name": "Pickup Wine Coin (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-021"
+    },
+    {
+      "name": "Speargun Ammo Near Wine Coin (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-022"
+    },
+    {
+      "name": "Pickup Seahorse Coin (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Demo Charge (Istanbul - The Gates of Neptune)|",
+      "sort-key": "03-05-023"
+    },
+    {
+      "name": "Pickup Kraken Coin (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "03-05-024"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Gates of Neptune)",
+      "region": "Istanbul: The Gates of Neptune",
+      "category": [
+        "03-05 Istanbul: The Gates of Neptune"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Demo Charge (Istanbul - The Gates of Neptune):2| AND |Kraken Coin| AND |Seahorse Coin| AND |Trident Coin| AND |Wine Coin|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-05-025"
+    },
+    {
+      "name": "Demo Charge Pickup (Istanbul: The Fall of the Sea King)",
+      "region": "Istanbul: The Fall of the Sea King",
+      "category": [
+        "03-06 Istanbul: The Fall of the Sea King"
+      ],
+      "requires": "",
+      "sort-key": "03-06-001"
+    },
+    {
+      "name": "Demo Charge Pickup 2 (Istanbul: The Fall of the Sea King)",
+      "region": "Istanbul: The Fall of the Sea King",
+      "category": [
+        "03-06 Istanbul: The Fall of the Sea King"
+      ],
+      "requires": "",
+      "sort-key": "03-06-002"
+    },
+    {
+      "name": "Fountain (Istanbul: The Fall of the Sea King)",
+      "region": "Istanbul: The Fall of the Sea King",
+      "category": [
+        "03-06 Istanbul: The Fall of the Sea King",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen| AND |Equipment Unlock - Whip|",
+      "sort-key": "03-06-003"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Fall of the Sea King)",
+      "region": "Istanbul: The Fall of the Sea King",
+      "category": [
+        "03-06 Istanbul: The Fall of the Sea King"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Demo Charge (Istanbul - The Fall of the Sea King):2|",
+      "place_item": [
+        "Istanbul - Chapter Completion"
+      ],
+      "sort-key": "03-06-004"
+    },
+    {
+      "name": "Pickup Oxygen Tank (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-001"
+    },
+    {
+      "name": "Demo Charge Pickup (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-002"
+    },
+    {
+      "name": "Demo Charge Pickup 2 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-003"
+    },
+    {
+      "name": "Demo Charge Pickup 3 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair)|",
+      "sort-key": "03-07-004"
+    },
+    {
+      "name": "Demo Charge Pickup 4 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair):2|",
+      "sort-key": "03-07-005"
+    },
+    {
+      "name": "Super Speargun (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-006"
+    },
+    {
+      "name": "Super Speargun Ammo (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-007"
+    },
+    {
+      "name": "Super Speargun Ammo 2 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-008"
+    },
+    {
+      "name": "Super Speargun Underwater Ammo (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-009"
+    },
+    {
+      "name": "Super Speargun Underwater Ammo 2 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-010"
+    },
+    {
+      "name": "Super Speargun Underwater Ammo 3 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-011"
+    },
+    {
+      "name": "Super Speargun Underwater Ammo 4 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-012"
+    },
+    {
+      "name": "Super Speargun Underwater Ammo 5 (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-013"
+    },
+    {
+      "name": "Medkit Near Skeleton (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "",
+      "sort-key": "03-07-014"
+    },
+    {
+      "name": "Kraken Defeated (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair):4|",
+      "sort-key": "03-07-015"
+    },
+    {
+      "name": "Pickup Mirror Piece (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair):4|",
+      "sort-key": "03-07-016"
+    },
+    {
+      "name": "Chapter Complete (Istanbul: The Kraken's Lair)",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair):4|",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "03-07-017"
+    },
+    {
+      "name": "Istanbul Complete",
+      "region": "Istanbul: The Kraken's Lair",
+      "category": [
+        "03-07 Istanbul: The Kraken's Lair"
+      ],
+      "requires": "|Demo Charge (Istanbul - The Kraken's Lair):4|",
+      "sort-key": "03-07-018"
+    },
+    {
+      "name": "Medkit in Crate in Service Hallway (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-001"
+    },
+    {
+      "name": "Iron Skin Potion in Crate (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-002"
+    },
+    {
+      "name": "Tai-Tsu Mask (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-003"
+    },
+    {
+      "name": "Fountain (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "04-01-004"
+    },
+    {
+      "name": "Mauser Ammo on Crate (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-005"
+    },
+    {
+      "name": "Mauser Ammo on Crate 2 (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-006"
+    },
+    {
+      "name": "Mauser Ammo in Crate (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-007"
+    },
+    {
+      "name": "Medkit in Crate Backstage (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "sort-key": "04-01-008"
+    },
+    {
+      "name": "Chapter Complete (Hong Kong: The Golden Lotus)",
+      "region": "Hong Kong: The Golden Lotus",
+      "category": [
+        "04-01 Hong Kong: The Golden Lotus"
+      ],
+      "requires": "",
+      "place_item": [
+        "Hong Kong - Chapter Completion"
+      ],
+      "sort-key": "04-01-009"
+    },
+    {
+      "name": "Medkit in Dressing Room (Hong Kong: The Golden Lotus Part 2)",
+      "region": "Hong Kong: The Golden Lotus Part 2",
+      "category": [
+        "04-02 Hong Kong: The Golden Lotus Part 2"
+      ],
+      "requires": "",
+      "sort-key": "04-02-001"
+    },
+    {
+      "name": "Longshan Idol (Hong Kong: The Golden Lotus Part 2)",
+      "region": "Hong Kong: The Golden Lotus Part 2",
+      "category": [
+        "04-02 Hong Kong: The Golden Lotus Part 2"
+      ],
+      "requires": "",
+      "sort-key": "04-02-002"
+    },
+    {
+      "name": "Chapter Complete (Hong Kong: The Golden Lotus Part 2)",
+      "region": "Hong Kong: The Golden Lotus Part 2",
+      "category": [
+        "04-02 Hong Kong: The Golden Lotus Part 2"
+      ],
+      "requires": "",
+      "place_item": [
+        "Hong Kong - Chapter Completion"
+      ],
+      "sort-key": "04-02-003"
+    },
+    {
+      "name": "Chinese Seal (Hong Kong: The Streets of Hong Kong)",
+      "region": "Hong Kong: The Streets of Hong Kong",
+      "category": [
+        "04-03 Hong Kong: The Streets of Hong Kong"
+      ],
+      "requires": "",
+      "sort-key": "04-03-001"
+    },
+    {
+      "name": "Chapter Complete (Hong Kong: The Streets of Hong Kong)",
+      "region": "Hong Kong: The Streets of Hong Kong",
+      "category": [
+        "04-03 Hong Kong: The Streets of Hong Kong"
+      ],
+      "requires": "",
+      "place_item": [
+        "Hong Kong - Chapter Completion"
+      ],
+      "sort-key": "04-03-002"
+    },
+    {
+      "name": "Chapter Complete (Hong Kong: The Streets of Hong Kong Part 2)",
+      "region": "Hong Kong: The Streets of Hong Kong Part 2",
+      "category": [
+        "04-04 Hong Kong: The Streets of Hong Kong Part 2"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "04-04-001"
+    },
+    {
+      "region": "Hong Kong: The Streets of Hong Kong Part 2",
+      "name": "Hong Kong Complete",
+      "category": [
+        "04-04 Hong Kong: The Streets of Hong Kong Part 2"
+      ],
+      "requires": "",
+      "sort-key": "04-04-002"
+    },
+    {
+      "name": "Oxygen Tank in Crate (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-001"
+    },
+    {
+      "name": "Speargun in Crate (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-002"
+    },
+    {
+      "name": "Speargun Ammo in Crate (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-003"
+    },
+    {
+      "name": "Demo Charge Pickup (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-004"
+    },
+    {
+      "name": "Machete Pickup Underwater (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-005"
+    },
+    {
+      "name": "Speargun Ammo Underwater (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-01-006"
+    },
+    {
+      "name": "Medkit on Island (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 1)|",
+      "sort-key": "05-01-007"
+    },
+    {
+      "name": "Speargun Ammo Underwater Cave (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 1)|",
+      "sort-key": "05-01-008"
+    },
+    {
+      "name": "Chapter Complete (PLL: The Secret of Peng Lai Lagoon Part 1)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "05-01 PLL: The Secret of Peng Lai Lagoon Part 1"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 1)| AND |Equipment Unlock - Whip|",
+      "place_item": [
+        "Peng Lai Lagoon - Chapter Completion"
+      ],
+      "sort-key": "05-01-009"
+    },
+    {
+      "name": "Demo Charge Pickup (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-02-001"
+    },
+    {
+      "name": "Sancai Plate (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 2)|",
+      "sort-key": "05-02-002"
+    },
+    {
+      "name": "Pickup Panzerschrek (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 2)|",
+      "sort-key": "05-02-003"
+    },
+    {
+      "name": "Panzerschrek Ammo (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "|Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 2)|",
+      "sort-key": "05-02-004"
+    },
+    {
+      "name": "MP-40 Ammo on Table (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-02-005"
+    },
+    {
+      "name": "Medkit in Crate (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "05-02-006"
+    },
+    {
+      "name": "Chapter Complete (PLL: The Secret of Peng Lai Lagoon Part 2)",
+      "region": "PLL: The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "05-02 PLL: The Secret of Peng Lai Lagoon Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Peng Lai Lagoon - Chapter Completion"
+      ],
+      "sort-key": "05-02-007"
+    },
+    {
+      "name": "Sima Qian Shiji (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "sort-key": "05-03-001"
+    },
+    {
+      "name": "Medkit in Crate (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "sort-key": "05-03-002"
+    },
+    {
+      "name": "MP-40 in Crate (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "sort-key": "05-03-003"
+    },
+    {
+      "name": "MP-40 on File Cabinet (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "sort-key": "05-03-004"
+    },
+    {
+      "name": "Mauser Ammo Underwater (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "sort-key": "05-03-005"
+    },
+    {
+      "name": "Chapter Complete (PLL: Iron Cross)",
+      "region": "PLL: Iron Cross",
+      "category": [
+        "05-03 PLL: Iron Cross"
+      ],
+      "requires": "",
+      "place_item": [
+        "Peng Lai Lagoon - Chapter Completion"
+      ],
+      "sort-key": "05-03-006"
+    },
+    {
+      "name": "Mauser on Table (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-001"
+    },
+    {
+      "name": "MP-40 on Table (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-002"
+    },
+    {
+      "name": "MP-40 Ammo on Table (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-003"
+    },
+    {
+      "name": "Grenade in Crate (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-004"
+    },
+    {
+      "name": "Medkit in Back of Truck (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-005"
+    },
+    {
+      "name": "MP-40 Ammo in Crate (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "sort-key": "05-04-006"
+    },
+    {
+      "name": "Chapter Complete (PLL: The U-Boat Base Part 1)",
+      "region": "PLL: The U-Boat Base Part 1",
+      "category": [
+        "05-04 PLL: The U-Boat Base Part 1"
+      ],
+      "requires": "",
+      "place_item": [
+        "Peng Lai Lagoon - Chapter Completion"
+      ],
+      "sort-key": "05-04-007"
+    },
+    {
+      "name": "MP-40 Ammo in Vent (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-001"
+    },
+    {
+      "name": "Medkit in Vent (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-002"
+    },
+    {
+      "name": "Medkit in Crate Lower Level (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-003"
+    },
+    {
+      "name": "MP-40 Ammo in Crate (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-004"
+    },
+    {
+      "name": "Tablet of Longjiang (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-005"
+    },
+    {
+      "name": "Medkit in Crate near Artifact (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "",
+      "sort-key": "05-05-006"
+    },
+    {
+      "name": "Pickup Security Papers (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "05-05-007"
+    },
+    {
+      "name": "Officer’s Uniform (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "05-05-008"
+    },
+    {
+      "name": "Chapter Complete (PLL: The U-Boat Base Part 2)",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Officer's Uniform| AND |Security Papers|",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "05-05-009"
+    },
+    {
+      "name": "Peng Lai Lagoon Complete",
+      "region": "PLL: The U-Boat Base Part 2",
+      "category": [
+        "05-05 PLL: The U-Boat Base Part 2"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Officer's Uniform| AND |Security Papers|",
+      "sort-key": "05-05-010"
+    },
+    {
+      "name": "Medkit in Back of Truck (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "",
+      "sort-key": "06-01-001"
+    },
+    {
+      "name": "Mauser Ammo Hidden in Open Vent (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "",
+      "sort-key": "06-01-002"
+    },
+    {
+      "name": "Zhao Mo Rhyton (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "",
+      "sort-key": "06-01-003"
+    },
+    {
+      "name": "MP-40 Near Skeleton (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-01-004"
+    },
+    {
+      "name": "Medkit Near Skeleton (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-01-005"
+    },
+    {
+      "name": "Medkit in Crate Near End (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-01-006"
+    },
+    {
+      "name": "Chapter Complete (PLM: The High Road to Peng Lai)",
+      "region": "PLM: The High Road to Peng Lai",
+      "category": [
+        "06-01 PLM: The High Road to Peng Lai"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Peng Lai Mountains - Chapter Completion"
+      ],
+      "sort-key": "06-01-007"
+    },
+    {
+      "name": "Medkit In Crate (PLM: The Infiltration)",
+      "region": "PLM: The Infiltration",
+      "category": [
+        "06-02 PLM: The Infiltration"
+      ],
+      "requires": "",
+      "sort-key": "06-02-001"
+    },
+    {
+      "name": "Gui Jian Scroll (PLM: The Infiltration)",
+      "region": "PLM: The Infiltration",
+      "category": [
+        "06-02 PLM: The Infiltration"
+      ],
+      "requires": "",
+      "sort-key": "06-02-002"
+    },
+    {
+      "region": "PLM: The Infiltration",
+      "name": "Medkit In Crate 2 (PLM: The Infiltration)",
+      "category": [
+        "06-02 PLM: The Infiltration"
+      ],
+      "requires": "",
+      "sort-key": "06-02-003"
+    },
+    {
+      "name": "Medkit In Crate Generator Room (PLM: The Infiltration)",
+      "region": "PLM: The Infiltration",
+      "category": [
+        "06-02 PLM: The Infiltration"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-02-004"
+    },
+    {
+      "name": "Chapter Complete (PLM: The Infiltration)",
+      "region": "PLM: The Infiltration",
+      "category": [
+        "06-02 PLM: The Infiltration"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Peng Lai Mountains - Chapter Completion"
+      ],
+      "sort-key": "06-02-005"
+    },
+    {
+      "name": "Chapter Complete (PLM: Terror at 2000 Feet)",
+      "region": "PLM: Terror at 2000 Feet",
+      "category": [
+        "06-03 PLM: Terror at 2000 Feet"
+      ],
+      "requires": "",
+      "place_item": [
+        "Peng Lai Mountains - Chapter Completion"
+      ],
+      "sort-key": "06-03-001"
+    },
+    {
+      "name": "MP-40 Ammo in Crate Near Gondola (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-001"
+    },
+    {
+      "name": "MP-40 In Crate Near Gondola (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-002"
+    },
+    {
+      "name": "Grenade in Crate (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-003"
+    },
+    {
+      "name": "MP-40 Ammo on Roof (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-004"
+    },
+    {
+      "name": "Medkit on Roof (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-005"
+    },
+    {
+      "name": "Medkit in Crate in Service Room (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-006"
+    },
+    {
+      "name": "Medkit in Crate (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-007"
+    },
+    {
+      "name": "MP-40 Ammo in Crate Bottom of Ramp (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-008"
+    },
+    {
+      "name": "MP-40 Ammo in Crate Top of Ramp (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-009"
+    },
+    {
+      "name": "Changan Stone (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "sort-key": "06-04-010"
+    },
+    {
+      "name": "Chapter Complete (PLM: The Airbase)",
+      "region": "PLM: The Airbase",
+      "category": [
+        "06-04 PLM: The Airbase"
+      ],
+      "requires": "",
+      "place_item": [
+        "Peng Lai Mountains - Chapter Completion"
+      ],
+      "sort-key": "06-04-011"
+    },
+    {
+      "name": "Revolver Ammo in Crate (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "",
+      "sort-key": "06-05-001"
+    },
+    {
+      "name": "Medkit in Crate Near Machine Gun (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-05-002"
+    },
+    {
+      "name": "MP-40 Ammo in Crate (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-05-003"
+    },
+    {
+      "name": "Medkit in Crate Lower Level (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-05-004"
+    },
+    {
+      "name": "Grenade in Crate Lower Level (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-05-005"
+    },
+    {
+      "name": "Chapter Complete (PLM: Ascent to Adventure)",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "06-05-006"
+    },
+    {
+      "name": "Peng Lai Mountains Complete",
+      "region": "PLM: Ascent to Adventure",
+      "category": [
+        "06-05 PLM: Ascent to Adventure"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "06-05-007"
+    },
+    {
+      "name": "Mask of Cambaluc (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-001"
+    },
+    {
+      "name": "Fountain (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "07-01-002"
+    },
+    {
+      "name": "Canteen In Crate Near Fountain (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-003"
+    },
+    {
+      "name": "Throwing Knife In Crate Near Fountain (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-004"
+    },
+    {
+      "name": "Tiger Strength Potion In Crate Near Fountain (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-005"
+    },
+    {
+      "name": "Crossbow In Crate Near Fountain (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-006"
+    },
+    {
+      "name": "Crossbow Ammo in Crate Lower Level (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-007"
+    },
+    {
+      "name": "Crossbow Ammo in Crate Upper Level (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-008"
+    },
+    {
+      "name": "Crossbow Ammo in Crate Upper Level 2 (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-009"
+    },
+    {
+      "name": "Throwing Knife In Crate Upper Level (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-010"
+    },
+    {
+      "name": "Throwing Knife In Crate Upper Level 2 (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-011"
+    },
+    {
+      "name": "Iron Skin Potion In Crate Upper Level (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "sort-key": "07-01-012"
+    },
+    {
+      "name": "Chapter Complete (BDF: The Black Dragon Fortress)",
+      "region": "BDF: The Black Dragon Fortress",
+      "category": [
+        "07-01 BDF: The Black Dragon Fortress"
+      ],
+      "requires": "",
+      "place_item": [
+        "Black Dragon Fortress - Chapter Completion"
+      ],
+      "sort-key": "07-01-013"
+    },
+    {
+      "name": "Qi Marble Stela (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-001"
+    },
+    {
+      "name": "Fountain (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "07-02-002"
+    },
+    {
+      "name": "Demo Charge Pickup (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-003"
+    },
+    {
+      "name": "Throwing Knife In Crate (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-004"
+    },
+    {
+      "name": "Health Potion In Crate (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-005"
+    },
+    {
+      "name": "Crossbow Ammo in Crate (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-006"
+    },
+    {
+      "name": "Crossbow Ammo in Crate 2 (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-007"
+    },
+    {
+      "name": "Crossbow Ammo in Crate 3 (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-008"
+    },
+    {
+      "name": "Crossbow Ammo in Crate 4 (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "",
+      "sort-key": "07-02-009"
+    },
+    {
+      "name": "Chapter Complete (BDF: Call to Battle)",
+      "region": "BDF: Call to Battle",
+      "category": [
+        "07-02 BDF: Call to Battle"
+      ],
+      "requires": "|Equipment Unlock - Whip| AND |Demo Charge (BDF - Call to Battle)|",
+      "place_item": [
+        "Black Dragon Fortress - Chapter Completion"
+      ],
+      "sort-key": "07-02-010"
+    },
+    {
+      "name": "Tiger Strength Potion In Crate (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms"
+      ],
+      "requires": "",
+      "sort-key": "07-03-001"
+    },
+    {
+      "name": "Crossbow Ammo In Crate (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms"
+      ],
+      "requires": "",
+      "sort-key": "07-03-002"
+    },
+    {
+      "name": "Canteen In Crate (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "07-03-003"
+    },
+    {
+      "name": "Yuan Xiang (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "sort-key": "07-03-004"
+    },
+    {
+      "name": "Fountain (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen| AND |Equipment Unlock - Whip|",
+      "sort-key": "07-03-005"
+    },
+    {
+      "name": "Chapter Complete (BDF: The Tower of Storms)",
+      "region": "BDF: The Tower of Storms",
+      "category": [
+        "07-03 BDF: The Tower of Storms"
+      ],
+      "requires": "|Equipment Unlock - Whip|",
+      "place_item": [
+        "Black Dragon Fortress - Chapter Completion"
+      ],
+      "sort-key": "07-03-006"
+    },
+    {
+      "name": "Feng Twins Defeated (BDF: The Rescue)",
+      "region": "BDF: The Rescue",
+      "category": [
+        "07-04 BDF: The Rescue"
+      ],
+      "requires": "",
+      "sort-key": "07-04-001"
+    },
+    {
+      "name": "Chapter Complete (BDF: The Rescue)",
+      "region": "BDF: The Rescue",
+      "category": [
+        "07-04 BDF: The Rescue"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "07-04-002"
+    },
+    {
+      "name": "Black Dragon Fortress Complete",
+      "region": "BDF: The Rescue",
+      "category": [
+        "07-04 BDF: The Rescue"
+      ],
+      "requires": "",
+      "sort-key": "07-04-003"
+    },
+    {
+      "name": "Fountain Top (ToKT: Descent into Darkness)",
+      "region": "ToKT: Descent into Darkness",
+      "category": [
+        "08-01 ToKT: Descent into Darkness",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "08-01-001"
+    },
+    {
+      "name": "Yuyao Pan (ToKT: Descent into Darkness)",
+      "region": "ToKT: Descent into Darkness",
+      "category": [
+        "08-01 ToKT: Descent into Darkness"
+      ],
+      "requires": "",
+      "sort-key": "08-01-002"
+    },
+    {
+      "name": "Fountain Bottom (ToKT: Descent into Darkness)",
+      "region": "ToKT: Descent into Darkness",
+      "category": [
+        "08-01 ToKT: Descent into Darkness",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "08-01-003"
+    },
+    {
+      "name": "Chapter Complete (ToKT: Descent into Darkness)",
+      "region": "ToKT: Descent into Darkness",
+      "category": [
+        "08-01 ToKT: Descent into Darkness"
+      ],
+      "requires": "",
+      "place_item": [
+        "Temple of Kong Tien - Chapter Completion"
+      ],
+      "sort-key": "08-01-004"
+    },
+    {
+      "name": "Tiger Strength Potion in Tomb (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "",
+      "sort-key": "08-02-001"
+    },
+    {
+      "name": "Fountain First Hallway (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "08-02-002"
+    },
+    {
+      "name": "Fountain Near Lantern (ToKT)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs",
+        "08-03 ToKT: The Dragon's Claw",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "08-02-003"
+    },
+    {
+      "name": "Pickup Blue Torch (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "",
+      "sort-key": "08-02-004"
+    },
+    {
+      "name": "Lantern 1 Lit (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-005"
+    },
+    {
+      "name": "Health Potion in Tomb (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-006"
+    },
+    {
+      "name": "Liaoning Mianjin (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-007"
+    },
+    {
+      "name": "Fountain In Stairwell (ToKT)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs",
+        "08-03 ToKT: The Dragon's Claw",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen| AND |Blue Torch|",
+      "sort-key": "08-02-008"
+    },
+    {
+      "name": "Lantern 2 Lit (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-009"
+    },
+    {
+      "name": "Lantern 3 Lit (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-010"
+    },
+    {
+      "name": "Lantern 4 Lit (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-011"
+    },
+    {
+      "name": "Lantern 5 Lit (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "sort-key": "08-02-012"
+    },
+    {
+      "name": "Chapter Complete (ToKT: The Catacombs)",
+      "region": "ToKT: The Catacombs",
+      "category": [
+        "08-02 ToKT: The Catacombs"
+      ],
+      "requires": "|Blue Torch|",
+      "place_item": [
+        "Temple of Kong Tien - Chapter Completion"
+      ],
+      "sort-key": "08-02-013"
+    },
+    {
+      "name": "Lantern 1 Lit (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "",
+      "sort-key": "08-03-001"
+    },
+    {
+      "name": "Lantern 2 Lit (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "",
+      "sort-key": "08-03-002"
+    },
+    {
+      "name": "Lantern 3 Lit (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "",
+      "sort-key": "08-03-003"
+    },
+    {
+      "name": "Lantern 4 Lit (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "",
+      "sort-key": "08-03-004"
+    },
+    {
+      "name": "Pickup Pa Cheng (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "",
+      "sort-key": "08-03-005"
+    },
+    {
+      "name": "Henan Bei (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "|Equipment Unlock - Pa Cheng|",
+      "sort-key": "08-03-006"
+    },
+    {
+      "name": "Chapter Complete (ToKT: The Dragon's Claw)",
+      "region": "ToKT: The Dragon's Claw",
+      "category": [
+        "08-03 ToKT: The Dragon's Claw"
+      ],
+      "requires": "|Equipment Unlock - Pa Cheng|",
+      "place_item": [
+        "Temple of Kong Tien - Chapter Completion"
+      ],
+      "sort-key": "08-03-007"
+    },
+    {
+      "name": "Kong Tien Defeated (ToKT: The Shadow of Kong Tien)",
+      "region": "ToKT: The Shadow of Kong Tien",
+      "category": [
+        "08-04 ToKT: The Shadow of Kong Tien"
+      ],
+      "requires": "",
+      "sort-key": "08-04-001"
+    },
+    {
+      "name": "Chapter Complete (ToKT: The Shadow of Kong Tien)",
+      "region": "ToKT: The Shadow of Kong Tien",
+      "category": [
+        "08-04 ToKT: The Shadow of Kong Tien"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "08-04-002"
+    },
+    {
+      "name": "Temple of Kong Tien Complete",
+      "region": "ToKT: The Shadow of Kong Tien",
+      "category": [
+        "08-04 ToKT: The Shadow of Kong Tien"
+      ],
+      "requires": "",
+      "sort-key": "08-04-003"
+    },
+    {
+      "name": "Fountain After Whip Section (Emperor's Tomb: Tomb of the First Emperor)",
+      "region": "Emperor's Tomb: Tomb of the First Emperor",
+      "category": [
+        "09-01 Emperor's Tomb: Tomb of the First Emperor",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "09-01-001"
+    },
+    {
+      "name": "Shang Statuette (Emperor's Tomb: Tomb of the First Emperor)",
+      "region": "Emperor's Tomb: Tomb of the First Emperor",
+      "category": [
+        "09-01 Emperor's Tomb: Tomb of the First Emperor"
+      ],
+      "requires": "",
+      "sort-key": "09-01-002"
+    },
+    {
+      "name": "Health Potion Near Orbs (Emperor's Tomb: Tomb of the First Emperor)",
+      "region": "Emperor's Tomb: Tomb of the First Emperor",
+      "category": [
+        "09-01 Emperor's Tomb: Tomb of the First Emperor"
+      ],
+      "requires": "",
+      "sort-key": "09-01-003"
+    },
+    {
+      "name": "Fountain Near Orbs (Emperor's Tomb: Tomb of the First Emperor)",
+      "region": "Emperor's Tomb: Tomb of the First Emperor",
+      "category": [
+        "09-01 Emperor's Tomb: Tomb of the First Emperor",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "09-01-004"
+    },
+    {
+      "name": "Chapter Complete (Emperor's Tomb: Tomb of the First Emperor)",
+      "region": "Emperor's Tomb: Tomb of the First Emperor",
+      "category": [
+        "09-01 Emperor's Tomb: Tomb of the First Emperor"
+      ],
+      "requires": "",
+      "place_item": [
+        "The Emperor's Tomb - Chapter Completion"
+      ],
+      "sort-key": "09-01-005"
+    },
+    {
+      "name": "Fountain in Opening Room (Emperor's Tomb: The Path of Unseen Peril)",
+      "region": "Emperor's Tomb: The Path of Unseen Peril",
+      "category": [
+        "09-02 Emperor's Tomb: The Path of Unseen Peril",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "09-02-001"
+    },
+    {
+      "name": "Tiger Strength Potion (Emperor's Tomb: The Path of Unseen Peril)",
+      "region": "Emperor's Tomb: The Path of Unseen Peril",
+      "category": [
+        "09-02 Emperor's Tomb: The Path of Unseen Peril"
+      ],
+      "requires": "|Equipment Unlock - Pa Cheng| AND |Idol of Kouru Watu| AND |Dragon Shard| AND |Third Mirror Fragment|",
+      "sort-key": "09-02-002"
+    },
+    {
+      "name": "Qin Lawbook (Emperor's Tomb: The Path of Unseen Peril)",
+      "region": "Emperor's Tomb: The Path of Unseen Peril",
+      "category": [
+        "09-02 Emperor's Tomb: The Path of Unseen Peril"
+      ],
+      "requires": "|Equipment Unlock - Pa Cheng| AND |Idol of Kouru Watu| AND |Dragon Shard| AND |Third Mirror Fragment|",
+      "sort-key": "09-02-003"
+    },
+    {
+      "name": "Chapter Complete (Emperor's Tomb: The Path of Unseen Peril)",
+      "region": "Emperor's Tomb: The Path of Unseen Peril",
+      "category": [
+        "09-02 Emperor's Tomb: The Path of Unseen Peril"
+      ],
+      "requires": "|Equipment Unlock - Pa Cheng| AND |Idol of Kouru Watu| AND |Dragon Shard| AND |Third Mirror Fragment|",
+      "place_item": [
+        "The Emperor's Tomb - Chapter Completion"
+      ],
+      "sort-key": "09-02-004"
+    },
+    {
+      "name": "Jade Liubo Board (Emperor's Tomb: The Bells of the Dead)",
+      "region": "Emperor's Tomb: The Bells of the Dead",
+      "category": [
+        "09-03 Emperor's Tomb: The Bells of the Dead"
+      ],
+      "requires": "",
+      "sort-key": "09-03-001"
+    },
+    {
+      "name": "Musical Chime Puzzle (Emperor's Tomb: The Bells of the Dead)",
+      "region": "Emperor's Tomb: The Bells of the Dead",
+      "category": [
+        "09-03 Emperor's Tomb: The Bells of the Dead"
+      ],
+      "requires": "",
+      "sort-key": "09-03-002"
+    },
+    {
+      "name": "Chapter Complete (Emperor's Tomb: The Bells of the Dead)",
+      "region": "Emperor's Tomb: The Bells of the Dead",
+      "category": [
+        "09-03 Emperor's Tomb: The Bells of the Dead"
+      ],
+      "requires": "",
+      "place_item": [
+        "The Emperor's Tomb - Chapter Completion"
+      ],
+      "sort-key": "09-03-003"
+    },
+    {
+      "name": "Von Beck Defeated (Emperor's Tomb: Von Beck's Revenge)",
+      "region": "Emperor's Tomb: Von Beck's Revenge",
+      "category": [
+        "09-04 Emperor's Tomb: Von Beck's Revenge"
+      ],
+      "requires": "",
+      "sort-key": "09-04-001"
+    },
+    {
+      "name": "Fountain (Emperor's Tomb: Von Beck's Revenge)",
+      "region": "Emperor's Tomb: Von Beck's Revenge",
+      "category": [
+        "09-04 Emperor's Tomb: Von Beck's Revenge",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "09-04-002"
+    },
+    {
+      "name": "Chapter Complete (Emperor's Tomb: Von Beck's Revenge)",
+      "region": "Emperor's Tomb: Von Beck's Revenge",
+      "category": [
+        "09-04 Emperor's Tomb: Von Beck's Revenge"
+      ],
+      "requires": "",
+      "place_item": [
+        "Level Complete"
+      ],
+      "sort-key": "09-04-003"
+    },
+    {
+      "name": "The Emperor’s Tomb Complete",
+      "region": "Emperor's Tomb: Von Beck's Revenge",
+      "category": [
+        "09-04 Emperor's Tomb: Von Beck's Revenge"
+      ],
+      "requires": "",
+      "sort-key": "09-04-004"
+    },
+    {
+      "name": "Halberd Plate (Netherworld: The Pillars of the Underworld)",
+      "region": "Netherworld: The Pillars of the Underworld",
+      "category": [
+        "10-01 Netherworld: The Pillars of the Underworld"
+      ],
+      "requires": "",
+      "sort-key": "10-01-001"
+    },
+    {
+      "name": "Gao Burial Mask (Netherworld: The Pillars of the Underworld)",
+      "region": "Netherworld: The Pillars of the Underworld",
+      "category": [
+        "10-01 Netherworld: The Pillars of the Underworld"
+      ],
+      "requires": "",
+      "sort-key": "10-01-002"
+    },
+    {
+      "name": "Chapter Complete (Netherworld: The Pillars of the Underworld)",
+      "region": "Netherworld: The Pillars of the Underworld",
+      "category": [
+        "10-01 Netherworld: The Pillars of the Underworld"
+      ],
+      "requires": "",
+      "sort-key": "10-01-003"
+    },
+    {
+      "name": "Fountain (Netherworld: The Heart of the Dragon)",
+      "region": "Netherworld: The Heart of the Dragon",
+      "category": [
+        "10-02 Netherworld: The Heart of the Dragon",
+        "Fountain"
+      ],
+      "requires": "|Equipment Unlock - Canteen|",
+      "sort-key": "10-02-001"
+    },
+    {
+      "name": "Shi Huangdi Cong (Netherworld: The Heart of the Dragon)",
+      "region": "Netherworld: The Heart of the Dragon",
+      "category": [
+        "10-02 Netherworld: The Heart of the Dragon"
+      ],
+      "requires": "",
+      "sort-key": "10-02-002"
+    },
+    {
+      "name": "Chapter Complete (Netherworld: The Heart of the Dragon)",
+      "region": "Netherworld: The Heart of the Dragon",
+      "category": [
+        "10-02 Netherworld: The Heart of the Dragon"
+      ],
+      "requires": "",
+      "sort-key": "10-02-003"
+    },
+    {
+      "name": "Marshal Kai Defeated (Netherworld: The Rise of the Black Emperor)",
+      "victory": true,
+      "region": "Netherworld: The Rise of the Black Emperor",
+      "category": [
+        "10-03 Netherworld: The Rise of the Black Emperor"
+      ],
+      "requires": "",
+      "sort-key": "10-03-001"
+    },
+    {
+      "name": "Unlock Ceylon: The Idol of Kouru Watu",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Ceylon - Chapter Completion:8|",
+      "sort-key": "00-01-001",
+      "place_item": [
+        "Chapter Unlock - Ceylon - The Idol of Kouru Watu"
+      ]
+    },
+    {
+      "name": "Unlock Prague: The Laboratory",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Prague - Chapter Completion:12|",
+      "sort-key": "00-01-002",
+      "place_item": [
+        "Chapter Unlock - Prague - The Laboratory"
+      ]
+    },
+    {
+      "name": "Unlock Istanbul: The Kraken's Lair",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Istanbul - Chapter Completion:6|",
+      "sort-key": "00-01-003",
+      "place_item": [
+        "Chapter Unlock - Istanbul - The Kraken's Lair"
+      ]
+    },
+    {
+      "name": "Unlock Hong Kong: The Streets of Hong Kong Part 2",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Hong Kong - Chapter Completion:3|",
+      "sort-key": "00-01-004",
+      "place_item": [
+        "Chapter Unlock - Hong Kong - The Streets of Hong Kong Part 2"
+      ]
+    },
+    {
+      "name": "Unlock PLL: The U-Boat Base Part 2",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Peng Lai Lagoon - Chapter Completion:4|",
+      "sort-key": "00-01-005",
+      "place_item": [
+        "Chapter Unlock - PLL - The U-Boat Base Part 2"
+      ]
+    },
+    {
+      "name": "Unlock PLM: Ascent to Adventure",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Peng Lai Mountains - Chapter Completion:4|",
+      "sort-key": "00-01-006",
+      "place_item": [
+        "Chapter Unlock - PLM - Ascent to Adventure"
+      ]
+    },
+    {
+      "name": "Unlock BDF: The Rescue",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Black Dragon Fortress - Chapter Completion:3|",
+      "sort-key": "00-01-007",
+      "place_item": [
+        "Chapter Unlock - BDF - The Rescue"
+      ]
+    },
+    {
+      "name": "Unlock ToKT: The Shadow of Kong Tien",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Temple of Kong Tien - Chapter Completion:3|",
+      "sort-key": "00-01-008",
+      "place_item": [
+        "Chapter Unlock - ToKT - The Shadow of Kong Tien"
+      ]
+    },
+    {
+      "name": "Unlock Emperor's Tomb: Von Beck's Revenge",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|The Emperor's Tomb - Chapter Completion:3|",
+      "sort-key": "00-01-009",
+      "place_item": [
+        "Chapter Unlock - Emperor's Tomb - Von Beck's Revenge"
+      ]
+    },
+    {
+      "name": "Unlock The Netherworld",
+      "category": [
+        ".Level Unlocks"
+      ],
+      "requires": "|Level Complete:9|",
+      "sort-key": "00-01-010",
+      "place_item": [
+        "Chapter Unlock - The Netherworld"
+      ]
+    }
+  ]
+}

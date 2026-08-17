@@ -1,0 +1,7 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "Indiana Jones and the Emperors Tomb",
+  "creator": "raptor980",
+  "filler_item_name": "Fortune & Glory",
+  "starting_items": []
+}

@@ -1,0 +1,1178 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 1,
+      "name": "Idol of Ramba Vihara",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Whip",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Canteen",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Machete",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Revolver",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Shotgun",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Mahavatu Mask",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (Ceylon - The Paths of the Ancients)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Port Negombo Relic",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Luger",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (Prague - The Courtyard)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Throwing Knives",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Library Key",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Book",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Medallion of Lebuse",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Crown",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Broken Sword",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Stochov Fragment",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Lever Handle",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Vega's Manifesto",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cistercian Mask",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Soul Crystal",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Metal Pipe",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - MP-40",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Shard",
+      "category": [
+        "Mirror Fragment"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Idol of Kouru Watu",
+      "category": [
+        "Mirror Fragment"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Turkish Knife",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Grenade",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Piri Reis Manuscript",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Mauser",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (Istanbul - The Secret of the Mosque Part 1)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ottoman Seal",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - The Hunter's Camp",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - The Paths of the Ancients",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - The Palace of Forgotten Kings",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - River of Fangs",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - Temple of the River Goddess",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - Into the Sacred Caverns",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - The Silent Guardians",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Ceylon - The Idol of Kouru Watu",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Castle Gates",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Dungeon",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Courtyard",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Great Hall",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Library",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Astrologer’s Clock",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Armory",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Astrologer’s Clock Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Observatory",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Astrologer’s Clock Part 3",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - Vega’s Tower",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Astrologer’s Clock Part 4",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Prague - The Laboratory",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - Istanbul Breakout",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Secret of the Mosque Part 1",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Secret of the Mosque Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Sunken Palace",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Gates of Neptune",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Fall of the Sea King",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Istanbul - The Kraken's Lair",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Hong Kong - The Golden Lotus",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Hong Kong - The Golden Lotus Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Hong Kong - The Streets of Hong Kong",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Hong Kong - The Streets of Hong Kong Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLL - The Secret of Peng Lai Lagoon Part 1",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLL - The Secret of Peng Lai Lagoon Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLL - Iron Cross",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLL - The U-Boat Base Part 1",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLL - The U-Boat Base Part 2",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLM - The High Road to Peng Lai",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLM - The Infiltration",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLM - Terror at 2000 Feet",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLM - The Airbase",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - PLM - Ascent to Adventure",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - BDF - The Black Dragon Fortress",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - BDF - Call to Battle",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - BDF - The Tower of Storms",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - BDF - The Rescue",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - ToKT - Descent into Darkness",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - ToKT - The Catacombs",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - ToKT - The Dragon's Claw",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - ToKT - The Shadow of Kong Tien",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Emperor's Tomb - Tomb of the First Emperor",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Emperor's Tomb - The Path of Unseen Peril",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Emperor's Tomb - The Bells of the Dead",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - Emperor's Tomb - Von Beck's Revenge",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Chapter Unlock - The Netherworld",
+      "category": [
+        "Chapter"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Castle Map",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Istanbul Map",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Speargun",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": "2",
+      "name": "Demo Charge (Istanbul - The Sunken Palace)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Delian Proclamation",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": "3",
+      "name": "Demo Charge (Istanbul - The Gates of Neptune)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Trident Coin",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Kraken Coin",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wine Coin",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Seahorse Coin",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "2",
+      "name": "Demo Charge (Istanbul - The Fall of the Sea King)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Demo Charge (Istanbul - The Kraken's Lair)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Super Speargun",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Third Mirror Fragment",
+      "category": [
+        "Mirror Fragment"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Sword",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Tai-Tsu Mask",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Longshan Idol",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Medkit",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Chinese Seal",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 1)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sancai Plate",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (PLL - The Secret of Peng Lai Lagoon Part 2)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Health Potion",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Sima Qian Shiji",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Tablet of Longjiang",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Officer's Uniform",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Security Papers",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zhao Mo Rhyton",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Gui Jian Scroll",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Changan Stone",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Mask of Cambaluc",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Chinese Spear",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Crossbow",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Qi Marble Stela",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Demo Charge (BDF - Call to Battle)",
+      "category": [
+        "Demo Charges"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Yuan Xiang",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Iron Skin Potion",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Tiger Strength Potion",
+      "category": [
+        "Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Yuyao Pan",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Torch",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Liaoning Mianjin",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Equipment Unlock - Pa Cheng",
+      "category": [
+        "Equipment - Progression"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Henan Bei",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Shang Statuette",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Qin Lawbook",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Jade Liubo Board",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Halberd Plate",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Gao Burial Mask",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Shi Huangdi Cong",
+      "category": [
+        "Artifact"
+      ],
+      "filler": true
+    },
+    {
+      "count": "9",
+      "name": "Level Complete",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "8",
+      "name": "Ceylon - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "12",
+      "name": "Prague - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "6",
+      "name": "Istanbul - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Hong Kong - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Peng Lai Lagoon - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "4",
+      "name": "Peng Lai Mountains - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Black Dragon Fortress - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "Temple of Kong Tien - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": "3",
+      "name": "The Emperor's Tomb - Chapter Completion",
+      "category": [
+        "Key"
+      ],
+      "progression": true
+    },
+    {
+      "count": 80,
+      "name": "It Belong in a Museum!",
+      "filler": true
+    }
+  ]
+}

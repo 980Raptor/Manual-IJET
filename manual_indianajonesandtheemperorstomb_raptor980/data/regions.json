@@ -1,0 +1,240 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Ceylon: Gates of the Lost City": {
+    "starting": false,
+    "connects_to": [],
+    "requires": ""
+  },
+  "Ceylon: The Hunter's Camp": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - The Hunter's Camp| AND |Equipment Unlock - Machete|"
+  },
+  "Ceylon: The Paths of the Ancients": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - The Paths of the Ancients| AND |Equipment Unlock - Whip|"
+  },
+  "Ceylon: The Palace of Forgotten Kings": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - The Palace of Forgotten Kings|"
+  },
+  "Ceylon: River of Fangs": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - River of Fangs|"
+  },
+  "Ceylon: Temple of the River Goddess": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - Temple of the River Goddess|"
+  },
+  "Ceylon: Into the Sacred Caverns": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - Into the Sacred Caverns|"
+  },
+  "Ceylon: The Silent Guardians": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - The Silent Guardians|"
+  },
+  "Ceylon: The Idol of Kouru Watu": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Ceylon - The Idol of Kouru Watu|"
+  },
+  "Prague: The Castle Gates": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Castle Gates|"
+  },
+  "Prague: The Dungeon": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Dungeon|"
+  },
+  "Prague: The Courtyard": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Courtyard|"
+  },
+  "Prague: The Great Hall": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Great Hall|"
+  },
+  "Prague: The Library": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Library|"
+  },
+  "Prague: The Astrologer’s Clock": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Astrologer’s Clock|"
+  },
+  "Prague: The Armory": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Armory|"
+  },
+  "Prague: The Astrologer’s Clock Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Astrologer’s Clock Part 2|"
+  },
+  "Prague: The Observatory": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Observatory|"
+  },
+  "Prague: The Astrologer’s Clock Part 3": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Astrologer’s Clock Part 3|"
+  },
+  "Prague: Vega’s Tower": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - Vega’s Tower| AND |Equipment Unlock - Whip|"
+  },
+  "Prague: The Astrologer’s Clock Part 4": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Astrologer’s Clock Part 4|"
+  },
+  "Prague: The Laboratory": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Prague - The Laboratory| AND |Equipment Unlock - Metal Pipe|"
+  },
+  "Istanbul: Istanbul Breakout": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - Istanbul Breakout|"
+  },
+  "Istanbul: The Secret of the Mosque Part 1": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Secret of the Mosque Part 1| AND |Equipment Unlock - Whip|"
+  },
+  "Istanbul: The Secret of the Mosque Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Secret of the Mosque Part 2|"
+  },
+  "Istanbul: The Sunken Palace": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Sunken Palace|"
+  },
+  "Istanbul: The Gates of Neptune": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Gates of Neptune|"
+  },
+  "Istanbul: The Fall of the Sea King": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Fall of the Sea King|"
+  },
+  "Istanbul: The Kraken's Lair": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Istanbul - The Kraken's Lair|"
+  },
+  "Hong Kong: The Golden Lotus": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Hong Kong - The Golden Lotus|"
+  },
+  "Hong Kong: The Golden Lotus Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Hong Kong - The Golden Lotus Part 2|"
+  },
+  "Hong Kong: The Streets of Hong Kong": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Hong Kong - The Streets of Hong Kong|"
+  },
+  "Hong Kong: The Streets of Hong Kong Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Hong Kong - The Streets of Hong Kong Part 2|"
+  },
+  "PLL: The Secret of Peng Lai Lagoon Part 1": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLL - The Secret of Peng Lai Lagoon Part 1|"
+  },
+  "PLL: The Secret of Peng Lai Lagoon Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLL - The Secret of Peng Lai Lagoon Part 2|"
+  },
+  "PLL: Iron Cross": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLL - Iron Cross|"
+  },
+  "PLL: The U-Boat Base Part 1": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLL - The U-Boat Base Part 1|"
+  },
+  "PLL: The U-Boat Base Part 2": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLL - The U-Boat Base Part 2|"
+  },
+  "PLM: The High Road to Peng Lai": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLM - The High Road to Peng Lai| AND |Officer's Uniform| AND |Security Papers|"
+  },
+  "PLM: The Infiltration": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLM - The Infiltration| AND |Officer's Uniform| AND |Security Papers|"
+  },
+  "PLM: Terror at 2000 Feet": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLM - Terror at 2000 Feet|"
+  },
+  "PLM: The Airbase": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLM - The Airbase|"
+  },
+  "PLM: Ascent to Adventure": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - PLM - Ascent to Adventure|"
+  },
+  "BDF: The Black Dragon Fortress": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - BDF - The Black Dragon Fortress| AND |Equipment Unlock - Whip|"
+  },
+  "BDF: Call to Battle": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - BDF - Call to Battle|"
+  },
+  "BDF: The Tower of Storms": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - BDF - The Tower of Storms|"
+  },
+  "BDF: The Rescue": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - BDF - The Rescue|"
+  },
+  "ToKT: Descent into Darkness": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - ToKT - Descent into Darkness| AND |Equipment Unlock - Whip|"
+  },
+  "ToKT: The Catacombs": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - ToKT - The Catacombs|"
+  },
+  "ToKT: The Dragon's Claw": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - ToKT - The Dragon's Claw| AND |Blue Torch|"
+  },
+  "ToKT: The Shadow of Kong Tien": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - ToKT - The Shadow of Kong Tien| AND |Equipment Unlock - Pa Cheng|"
+  },
+  "Emperor's Tomb: Tomb of the First Emperor": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Emperor's Tomb - Tomb of the First Emperor| AND |Equipment Unlock - Whip|"
+  },
+  "Emperor's Tomb: The Path of Unseen Peril": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Emperor's Tomb - The Path of Unseen Peril|"
+  },
+  "Emperor's Tomb: The Bells of the Dead": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Emperor's Tomb - The Bells of the Dead| AND |Equipment Unlock - Pa Cheng| AND |Idol of Kouru Watu| AND |Dragon Shard| AND |Third Mirror Fragment|"
+  },
+  "Emperor's Tomb: Von Beck's Revenge": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - Emperor's Tomb - Von Beck's Revenge| AND |Equipment Unlock - Whip|"
+  },
+  "Netherworld: The Pillars of the Underworld": {
+    "connects_to": [
+      "Netherworld: The Heart of the Dragon"
+    ],
+    "requires": "|Chapter Unlock - The Netherworld| AND |Equipment Unlock - Pa Cheng| AND |Equipment Unlock - Whip|"
+  },
+  "Netherworld: The Heart of the Dragon": {
+    "connects_to": [
+      "Netherworld: The Rise of the Black Emperor"
+    ],
+    "requires": "|Chapter Unlock - The Netherworld| AND |Equipment Unlock - Pa Cheng| AND |Idol of Kouru Watu| AND |Dragon Shard| AND |Third Mirror Fragment|"
+  },
+  "Netherworld: The Rise of the Black Emperor": {
+    "connects_to": [],
+    "requires": "|Chapter Unlock - The Netherworld| AND |Equipment Unlock - Pa Cheng| AND |Equipment Unlock - Whip|"
+  }
+}
