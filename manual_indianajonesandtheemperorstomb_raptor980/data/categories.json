@@ -1,1 +1,5 @@
-{}
+{
+  "Fountain": {
+    "yaml_option": ["fountain_sanity"]
+  }
+}
