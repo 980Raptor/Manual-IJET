@@ -22,6 +22,14 @@
         }
     },
     "user": {
+        "fountain_sanity":{
+            "type": "Toggle",
+            "description": [
+                "Adds all fountains as locations."
+            ],
+            "default": false,
+            "group": "Game Options"
+        },
         "Levels Required to access the Netherworld":{
             "type": "Range",
             "description": [
