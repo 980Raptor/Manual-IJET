@@ -3,5 +3,6 @@
   "game": "Indiana Jones and the Emperors Tomb",
   "creator": "raptor980",
   "filler_item_name": "Fortune & Glory",
+  "death_link": true,
   "starting_items": []
 }
