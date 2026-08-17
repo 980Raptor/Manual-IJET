@@ -25,7 +25,7 @@
         "fountain_sanity":{
             "type": "Toggle",
             "description": [
-                "Adds all fountains as locations."
+                "Adds all fountains as locations. (adds 37 checks)"
             ],
             "default": false,
             "group": "Game Options"
